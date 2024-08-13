@@ -48,7 +48,7 @@ st.markdown("""
 st.title('✍ BlogBotAI : Your AI Writing Companion')
 
 # create a subheader
-st.subheader("Now you can craft perfect blogs with the help of AI. BlogBotAI is your new AI Blog Comapanion")
+st.subheader("Effortlessly create captivating blogs with AI assistance. BlogBotAI is your ultimate companion for generating high-quality content")
 
 # sidebar for user input
 with st.sidebar:
